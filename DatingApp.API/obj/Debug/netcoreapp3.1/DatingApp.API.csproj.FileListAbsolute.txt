@@ -1,5 +1,3 @@
-/Users/mikedu/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/appsettings.Development.json
-/Users/mikedu/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/appsettings.json
 /Users/mikedu/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
 /Users/mikedu/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/DatingApp.API.deps.json
 /Users/mikedu/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/DatingApp.API.runtimeconfig.json
@@ -58,12 +56,13 @@
 /Users/mikedu/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll
 /Users/mikedu/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
 /Users/mikedu/DatingApp/DatingApp.API/obj/Debug/netcoreapp3.1/DatingApp.API.csproj.CopyComplete
-/Users/mikedu/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Http.Connections.Client.dll
-/Users/mikedu/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/Microsoft.Azure.SignalR.Common.dll
-/Users/mikedu/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/Microsoft.Azure.SignalR.dll
-/Users/mikedu/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/Microsoft.Azure.SignalR.Protocols.dll
+/Users/mikedu/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/mikedu/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/mikedu/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll
 /Users/mikedu/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
 /Users/mikedu/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/Users/mikedu/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/Users/mikedu/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 /Users/mikedu/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
 /Users/mikedu/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
 /Users/mikedu/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
