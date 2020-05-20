@@ -10,6 +10,8 @@ using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
 using System;
+using Microsoft.AspNetCore.Authorization;
+
 
 namespace DatingApp.API.Controllers
 {
@@ -26,6 +28,8 @@ namespace DatingApp.API.Controllers
             _repo = repo;
         }
 
+
+        [AllowAnonymous]
         [HttpPost("register")]
 
         public async Task<IActionResult> Register(UserForRegisterDto userForRegisterDto)
