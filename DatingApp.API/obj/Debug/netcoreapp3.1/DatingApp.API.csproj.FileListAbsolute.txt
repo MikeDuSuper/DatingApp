@@ -66,3 +66,6 @@
 /Users/mikedu/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
 /Users/mikedu/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
 /Users/mikedu/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/mikedu/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/Data/UserSeedData.json
+/Users/mikedu/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/AutoMapper.dll
+/Users/mikedu/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
