@@ -69,3 +69,4 @@
 /Users/mikedu/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/Data/UserSeedData.json
 /Users/mikedu/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/AutoMapper.dll
 /Users/mikedu/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/mikedu/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/CloudinaryDotNet.dll
