@@ -70,3 +70,109 @@
 /Users/mikedu/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/AutoMapper.dll
 /Users/mikedu/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 /Users/mikedu/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/CloudinaryDotNet.dll
+/Users/mikedu/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/mikedu/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/mikedu/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/Users/mikedu/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/MySqlConnector.dll
+/Users/mikedu/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/mikedu/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/Pomelo.JsonObject.dll
+/Users/mikedu/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/mikedu/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/Users/mikedu/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/mikedu/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/mikedu/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/mikedu/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+/Users/mikedu/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+/Users/mikedu/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+/Users/mikedu/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/mikedu/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/mikedu/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/Data/UserSeedData.json
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/DatingApp.API.deps.json
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/DatingApp.API.runtimeconfig.json
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/DatingApp.API.runtimeconfig.dev.json
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/DatingApp.API.dll
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/DatingApp.API.pdb
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/AutoMapper.dll
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/CloudinaryDotNet.dll
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/Microsoft.Data.Sqlite.dll
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/MySqlConnector.dll
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/Pomelo.JsonObject.dll
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/SQLitePCLRaw.core.dll
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/e_sqlite3.dll
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/obj/Debug/netcoreapp3.1/DatingApp.API.csprojAssemblyReference.cache
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/obj/Debug/netcoreapp3.1/DatingApp.API.csproj.CoreCompileInputs.cache
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/obj/Debug/netcoreapp3.1/DatingApp.API.MvcApplicationPartsAssemblyInfo.cache
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/obj/Debug/netcoreapp3.1/DatingApp.API.AssemblyInfoInputs.cache
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/obj/Debug/netcoreapp3.1/DatingApp.API.AssemblyInfo.cs
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/obj/Debug/netcoreapp3.1/DatingApp.API.RazorTargetAssemblyInfo.cache
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/obj/Debug/netcoreapp3.1/DatingApp.API.csproj.CopyComplete
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/obj/Debug/netcoreapp3.1/staticwebassets/DatingApp.API.StaticWebAssets.Manifest.cache
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/obj/Debug/netcoreapp3.1/staticwebassets/DatingApp.API.StaticWebAssets.xml
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/obj/Debug/netcoreapp3.1/DatingApp.API.dll
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/obj/Debug/netcoreapp3.1/DatingApp.API.pdb
+/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/obj/Debug/netcoreapp3.1/DatingApp.API.genruntimeconfig.cache

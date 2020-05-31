@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mikedu/DatingApp/DatingApp.API/DatingApp.API.csproj": {}
+    "/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/DatingApp.API.csproj": {}
   },
   "projects": {
-    "/Users/mikedu/DatingApp/DatingApp.API/DatingApp.API.csproj": {
+    "/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/DatingApp.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mikedu/DatingApp/DatingApp.API/DatingApp.API.csproj",
+        "projectUniqueName": "/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/DatingApp.API.csproj",
         "projectName": "DatingApp.API",
-        "projectPath": "/Users/mikedu/DatingApp/DatingApp.API/DatingApp.API.csproj",
+        "projectPath": "/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/DatingApp.API.csproj",
         "packagesPath": "/Users/mikedu/.nuget/packages/",
-        "outputPath": "/Users/mikedu/DatingApp/DatingApp.API/obj/",
+        "outputPath": "/Users/mikedu/DotNet Core Projects/DatingApp/DatingApp.API/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -59,6 +59,10 @@
               "target": "Package",
               "version": "[3.1.4, )"
             },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[3.1.4, )"
@@ -66,6 +70,10 @@
             "Microsoft.IdentityModel.Tokens": {
               "target": "Package",
               "version": "[6.5.1, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[3.1.1, )"
             },
             "System.IdentityModel.Tokens.Jwt": {
               "target": "Package",
